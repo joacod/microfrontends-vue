@@ -1,6 +1,6 @@
 <div align="center">
 
-# Microfrontends - React
+# Microfrontends - Vue
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/joacod/microfrontends-vue/blob/main/LICENSE)
 
